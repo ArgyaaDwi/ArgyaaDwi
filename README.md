@@ -72,7 +72,7 @@ Probably out hiking somewhere with no signal, planning the next trip, or watchin
 
 - 🧗 Mountain hiking
 - ✈️ Travelling to new places
-- ⚽ Real Madrid — Hala Madrid
+- ⚽ Hala Madrid
 
 ---
 
