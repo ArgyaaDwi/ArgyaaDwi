@@ -66,13 +66,13 @@
 
 ---
 
-### ⚽ When I'm Offline
+### 🧗 When I'm Offline
 
 Probably out hiking somewhere with no signal, planning the next trip, or watching Real Madrid play way too late at night.
 
-- 🧗 Mountain hiking
-- ✈️ Travelling to new places
-- ⚽ Hala Madrid
+- Mountain hiking
+- Travelling to new places
+- Hala Madrid !!!
 
 ---
 
