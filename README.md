@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack Developer | Final-year Informatics Engineering Student at PENS</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F6DE1&center=true&vCenter=true&width=600&lines=Building+with+Laravel+%2B+React+%2B+Next.js;Exploring+Data+Science+%F0%9F%93%88;Hala+Madrid+%E2%9A%BD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F6DE1&center=true&vCenter=true&width=600&lines=Building+with+Laravel+%2B+React;Hala+Madrid+%E2%9A%BD" alt="Typing SVG" />
 </p>
 
 ---
@@ -63,17 +63,6 @@
 - 📜 Laravel Web Development — SanberCode (2024)
 - 📜 Fundamental UI Design — Coding Studio (2024)
 - 📜 Fundamental Data Science — Dicoding Indonesia (2024)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ArgyaaDwi&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArgyaaDwi&layout=compact" />
-</p>
-
-> ⚠️ Ganti `YOUR_USERNAME` di dua link di atas dengan username GitHub kamu ya, biar statsnya kebaca.
 
 ---
 
