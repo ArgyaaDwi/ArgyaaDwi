@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Argya 👋</h1>
-<h3 align="center">Fullstack Developer | Fresh Graduate in Informatics Engineering Student at PENS</h3>
+<h3 align="center">Fullstack Developer | Fresh Graduate in Informatics Engineering Student from PENS</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F6DE1&center=true&vCenter=true&width=600&lines=Building+with+Laravel+%2B+React;Hala+Madrid+%E2%9A%BD" alt="Typing SVG" />
@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Fresh Graduate in **Informatics Engineering** student at **PENS** (GPA 3.8 / 4)
+- 🎓 Fresh Graduate in **Informatics Engineering** student from **PENS** (GPA 3.8 / 4)
 - 💻 Fullstack Developer Intern at **CV. DB Klik**, building and maintain an Omnichannel ERP
 - 🛠️ Comfortable across the stack: Laravel, FastAPI, React, Next.js, Golang
 - 📫 Reach me at **ferdinandargya@gmail.com**
