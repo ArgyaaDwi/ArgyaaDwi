@@ -52,7 +52,7 @@
 
 ---
 
-### 🏆 Awards & Certifications
+### 🏆 Awards
 
 - 🥇 1st Place — Technology Innovative Challenge 8.0, Universitas Jember (2025)
 - 🥇 1st Place — Silogy Expo 2025, Universitas Singaperbangsa Karawang (2025)
