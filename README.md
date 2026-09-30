@@ -11,7 +11,6 @@
 
 - 🎓 Fresh Graduate in **Informatics Engineering** student from **PENS** (GPA 3.8 / 4)
 - 💻 Fullstack Developer Intern at **CV. DB Klik**, building and maintain an Omnichannel ERP
-- 🛠️ Comfortable across the stack: Laravel, FastAPI, React, Next.js, Golang
 - 📫 Reach me at **ferdinandargya@gmail.com** or [LinkedIn](https://linkedin.com/in/argya-dwi/)
 
 ---
@@ -52,4 +51,4 @@ Probably out hiking somewhere with no signal, planning the next trip, or watchin
 
 ---
 
-<p align="center"><i>Thanks for stopping by! Feel free to connect</i></p>
+<p align="center"><i>Feel free to connect</i></p>
