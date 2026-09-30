@@ -42,24 +42,6 @@
 
 ---
 
-### 💼 Work Experience
-
-- **Fullstack Developer Intern** — CV. DB Klik *(Mar 2026 - Present)*
-  Building features for an Omnichannel ERP: inventory control, cross-warehouse stock mutations, multi-stage payments, API webhooks & Stock History module for B2B + marketplace sync.
-- **Fullstack Web Developer Intern** — PT. ALP Petro Industry *(Jul 2024 - Jan 2025)*
-- **Product Manager** — SleepDiary, AgileTeknik *(Feb 2024 - May 2024)*
-  Led an Agile team from concept to a successful Play Store launch.
-
----
-
-### 🏆 Awards
-
-- 🥇 1st Place — Technology Innovative Challenge 8.0, Universitas Jember (2025)
-- 🥇 1st Place — Silogy Expo 2025, Universitas Singaperbangsa Karawang (2025)
-- 🥉 3rd Place — KMIPN VII 2025, Politeknik Negeri Padang (2025)
-
----
-
 ### 🧗 When I'm Offline
 
 Probably out hiking somewhere with no signal, planning the next trip, or watching Real Madrid play way too late at night.
