@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Argya 👋</h1>
-<h3 align="center">Fullstack Developer | Fresh Graduate in Informatics Engineering Student from PENS</h3>
+<h3 align="center">Software Engineer | Fullstack Developer | IoT & Embedded Systems</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F6DE1&center=true&vCenter=true&width=600&lines=Building+with+Laravel+%2B+React;Hala+Madrid+%E2%9A%BD" alt="Typing SVG" />
@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 About Me
+### - About Me
 
 - 🎓 Fresh Graduate in **Informatics Engineering** student from **PENS** (GPA 3.8 / 4)
 - 💻 Fullstack Developer Intern at **CV. DB Klik**, building and maintain an Omnichannel ERP
@@ -15,7 +15,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### - Tech Stack
 
 **Languages & Frameworks**
 
@@ -41,7 +41,7 @@
 
 ---
 
-### 🧗 When I'm Offline
+### - When I'm Offline
 
 Probably out hiking somewhere with no signal, planning the next trip, or watching Real Madrid play way too late at night.
 
